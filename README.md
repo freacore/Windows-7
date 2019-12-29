@@ -3,7 +3,7 @@
 
 
 ![folder](https://github.com/freacore/Windows-7/blob/master/filesystems/256/folder.png) 
-![gedit](https://github.com/freacore/Windows-7/blob/master/filesystems/256/gedit.png)
+![gedit](https://github.com/freacore/Windows-7/blob/master/apps/256/gedit.png)
 ![filemanager](https://github.com/freacore/Windows-7/blob/master/apps/256/file-manager.png)
 ![mail](https://github.com/freacore/Windows-7/blob/master/apps/256/internet-mail.png)
 
