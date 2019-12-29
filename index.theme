@@ -5,8 +5,7 @@ Name=Win2-7 6.0
 Inherits=Gnome,Windows,hicolor
 
 # Declare folders & subfolders
-Directories=actions,actions/16,actions/25,actions/48,actions/32,actions/MediaPlayer,animations,apps,apps/16,apps/32,apps/64,apps/256,categories,categories/16,devices,devices/16,devices/48,devices/64,devices/256,emblems,emotes,filesystems,filesystems/16,filesystems/128,filesystems/256,mimetypes,mimetypes/48,mimetypes/256,notifications,notifications/32,status,status/76,status/48,status/64,status/52,status/20,status/18
-#,status/32           
+Directories=actions,actions/16,actions/25,actions/48,actions/32,actions/MediaPlayer,animations,apps,apps/16,apps/32,apps/64,apps/256,categories,categories/16,devices,devices/16,devices/48,devices/64,devices/256,emblems,emotes,filesystems,filesystems/16,filesystems/128,filesystems/256,mimetypes,mimetypes/48,mimetypes/256,notifications,notifications/32,status,status/18,status/20,status/22,status/48,status/64,status/52
 
 # Folder category & settings
 [actions]
@@ -201,6 +200,11 @@ Size=22
 Context=IndicatorApplet
 Type=Scalable
 
+[status/22]
+Size=22
+Context=Battery
+Type=Scalable
+
 [status/48]
 Size=48
 Context=Volume-Network
@@ -214,11 +218,6 @@ Type=Scalable
 [status/64]
 Size=75
 Context=Wireless
-Type=Scalable
-
-[status/76]
-Size=76
-Context=Battery
 Type=Scalable
 
 
