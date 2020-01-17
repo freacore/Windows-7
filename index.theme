@@ -5,7 +5,7 @@ Name=Windows 7
 Inherits=Gnome,Windows,hicolor
 
 # Declare folders & subfolders
-Directories=actions,actions/16,actions/25,actions/48,actions/32,actions/MediaPlayer,animations,apps,apps/16,apps/32,apps/64,apps/256,categories,categories/16,categories/symbolic,devices,devices/16,devices/48,devices/64,devices/256,emblems,emotes,filesystems,filesystems/16,filesystems/64,filesystems/128,filesystems/256,mimetypes,mimetypes/32,mimetypes/48,mimetypes/256,notifications,notifications/32,places,places/20,places/32,places/64,places/256,places/symbolic,preferences,preferences/265,preferences/symbolic,status,status/18,status/20,status/22,status/48,status/64,status/52,status/symbolic,
+Directories=actions,actions/16,actions/25,actions/48,actions/32,actions/MediaPlayer,animations,apps,apps/16,apps/32,apps/64,apps/256,categories,categories/16,categories/symbolic,devices,devices/16,devices/48,devices/64,devices/256,emblems,emotes,filesystems,filesystems/16,filesystems/64,filesystems/128,filesystems/256,mimetypes,mimetypes/32,mimetypes/48,mimetypes/256,notifications,notifications/32,places,places/20,places/32,places/64,places/256,places/symbolic,preferences,preferences/256,preferences/symbolic,status,status/18,status/20,status/22,status/48,status/64,status/52,status/symbolic,
 
 # Folder category & settings
 [actions]
